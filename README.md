@@ -5,7 +5,7 @@ This project focuses on building structured recipe pages using fundamental, sema
 Demonstrated Skills Upon Completion
 By completing this project, I will have demonstrated essential web development fundamentals:
 
-Semantic HTML Structure: Properly utilizing structural elements (<h1>–<h3>, <p>, <ul>, <ol>, <li>, <img>) to convey clear meaning and document hierarchy.
+Semantic HTML Structure: Properly utilizing structural elements (h1–h3, p, ul, ol, li, img) to convey clear meaning and document hierarchy.
 
 Content Organization: Structuring complex informational layouts—such as recipe introductions, ingredient lists, and sequential preparation steps—into clean, readable code.
 
